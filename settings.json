@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "imgonnacream",
-    "password": "",
+    "password": "Mark1234",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "ChaosBoundSmp.aternos.me",
+    "port": 51709,
     "version": "",
     "try-creative": false
   },
