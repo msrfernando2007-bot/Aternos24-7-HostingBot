@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "SASA_LIVE.aternos.me",
+    "port": 53483,
     "version": "",
     "try-creative": false
   },
